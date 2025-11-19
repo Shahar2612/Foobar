@@ -66,3 +66,6 @@ CTestTestfile.cmake
 *.temp
 Testing/Temporary/
 
+# Wiki repository (separate git repo)
+ProjectPart2-Web.wiki/
+
