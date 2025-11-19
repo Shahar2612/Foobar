@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Project2-Android</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="LogIn">Log In</string>
+    <string name="SignUpforFoobar">Sign Up for Foobar</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Likes">Likes</string>
+    <string name="Comments">Comments</string>
+
+    <string name="signIn_menuGallery">Gallery</string>
+    <string name="signIn_menuCamera">Camera</string>
+
+    <string name="signIn_etFirstName">First Name</string>
+    <string name="signIn_etLastName">Last Name</string>
+    <string name="signIn_etEmail">Email</string>
+    <string name="signIn_etPassword">Password</string>
+    <string name="signIn_tvGender">Gender</string>
+    <string name="signIn_tvMale">Male</string>
+    <string name="signIn_tvFemale">Female</string>
+    <string name="signIn_tvOther">Other</string>
+    <string name="signIn_tvBirthday">Birthday</string>
+    <string name="signIn_btnRegister">Register</string>
+    <string name="signIn_btnSelectImage">Select Image</string>
+    <string name="signIn_tvPicture">picture</string>
+    <string name="signIn_etPasswordVerification">Confirm Password</string>
+    <string name="signIn_passwordExplain">password must contain at least 8 characters,
+        including a letter, number and a special character</string>
+    <string name="status">What is on your mind?</string>
+    <string name="addComment">Write your comment here...</string>
+    <string name="cancel">Cancel</string>
+    <string name="comment">Comment</string>
+    <string name="comments">Comments:</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="instagram">Instagram</string>
+    <string name="tiktok">Tiktok</string>
+    <string name="notifications">Notifications</string>
+    <string name="reels">Reels</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="feed">Feed</string>
+    <string name="menu">Menu</string>
+    <string name="deletePost">Delete Post</string>
+    <string name="editPost">Edit Post</string>
+    <string name="editText">Edit your post here...</string>
+    <string name="logIn_invalidError">Invalid email or password</string>
+
+    <string name="editCommentText">Edit your comment here...</string>
+    <string name="editCommentBtn">Edit Comment</string>
+
+    <string name="comment_text">Comment Text</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search foobar...</string>
+    <string name="log_out">Log Out</string>
+    <string name="addFriend">Add Friend</string>
+    <string name="BaseUrl">http://10.0.2.2:8080/api/</string>
+    <string name="friendRequests">Friend Requests</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="editUser">Edit User</string>
+    <string name="deleteUser">Delete User</string>
+    <string name="base_url">http://10.0.2.2:8080/api/</string>
+    <string name="base_url_image_prefix">data:image/png;base64,</string>
+    <string name="update">Update</string>
+    <string name="no_friend_requests_found">No friend requests found:)</string>
+
+    <string name="friends">Friends</string>
+    <string name="no_friends__found">No Friends Found:)</string>
+
+
+    <string name="requests">Requests</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="cancel_friendship">Cancel Friendship</string>
+    <string name="pending">Pending</string>
+    <string name="pending_approval">Pending Approval</string>
+
+
+
+</resources>

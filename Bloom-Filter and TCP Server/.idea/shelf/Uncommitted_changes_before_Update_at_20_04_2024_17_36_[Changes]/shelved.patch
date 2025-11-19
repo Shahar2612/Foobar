@@ -1,0 +1,48 @@
+Index: README.md
+===================================================================
+diff --git a/README.md b/README.md
+deleted file mode 100644
+--- a/README.md	(revision 64ce5e4c714fa3b70d86009fa7cb04d92b6f3bd7)
++++ /dev/null	(revision 64ce5e4c714fa3b70d86009fa7cb04d92b6f3bd7)
+@@ -1,1 +0,0 @@
+-# Project-Part-1
+\ No newline at end of file
+Index: .gitignore
+===================================================================
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+--- a/.gitignore	(revision 64ce5e4c714fa3b70d86009fa7cb04d92b6f3bd7)
++++ /dev/null	(revision 64ce5e4c714fa3b70d86009fa7cb04d92b6f3bd7)
+@@ -1,32 +0,0 @@
+-# Prerequisites
+-*.d
+-
+-# Compiled Object files
+-*.slo
+-*.lo
+-*.o
+-*.obj
+-
+-# Precompiled Headers
+-*.gch
+-*.pch
+-
+-# Compiled Dynamic libraries
+-*.so
+-*.dylib
+-*.dll
+-
+-# Fortran module files
+-*.mod
+-*.smod
+-
+-# Compiled Static libraries
+-*.lai
+-*.la
+-*.a
+-*.lib
+-
+-# Executables
+-*.exe
+-*.out
+-*.app

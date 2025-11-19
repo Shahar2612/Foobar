@@ -1,0 +1,5 @@
+/mnt/c/Users/shaha/Advanced programming/Project-Part-1/Project-Part-1-main/build/CMakeFiles/run_project.dir
+/mnt/c/Users/shaha/Advanced programming/Project-Part-1/Project-Part-1-main/build/CMakeFiles/RunTests.dir
+/mnt/c/Users/shaha/Advanced programming/Project-Part-1/Project-Part-1-main/build/CMakeFiles/test.dir
+/mnt/c/Users/shaha/Advanced programming/Project-Part-1/Project-Part-1-main/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/shaha/Advanced programming/Project-Part-1/Project-Part-1-main/build/CMakeFiles/rebuild_cache.dir

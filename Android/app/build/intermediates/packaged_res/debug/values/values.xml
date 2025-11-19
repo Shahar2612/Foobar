@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="buttonsBlue">#2196F3</color>
+    <color name="colorPrimary">#3B5998</color>
+    <color name="colorPrimaryDark">#324D87</color>
+    <color name="dark_grey">#696969</color>
+    <color name="grey">#928E8E</color>
+    <color name="light_grey">#E4E4E4</color>
+    <color name="purple_200">#3b5998</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="BaseUrl">http://10.0.2.2:8080/api/</string>
+    <string name="Comments">Comments</string>
+    <string name="Email">Email</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Likes">Likes</string>
+    <string name="LogIn">Log In</string>
+    <string name="Password">Password</string>
+    <string name="SignUpforFoobar">Sign Up for Foobar</string>
+    <string name="accept">Accept</string>
+    <string name="addComment">Write your comment here...</string>
+    <string name="addFriend">Add Friend</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="app_name">Project2-Android</string>
+    <string name="base_url">http://10.0.2.2:8080/api/</string>
+    <string name="base_url_image_prefix">data:image/png;base64,</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_friendship">Cancel Friendship</string>
+    <string name="comment">Comment</string>
+    <string name="comment_text">Comment Text</string>
+    <string name="comments">Comments:</string>
+    <string name="decline">Decline</string>
+    <string name="deletePost">Delete Post</string>
+    <string name="deleteUser">Delete User</string>
+    <string name="editCommentBtn">Edit Comment</string>
+    <string name="editCommentText">Edit your comment here...</string>
+    <string name="editPost">Edit Post</string>
+    <string name="editText">Edit your post here...</string>
+    <string name="editUser">Edit User</string>
+    <string name="feed">Feed</string>
+    <string name="friendRequests">Friend Requests</string>
+    <string name="friends">Friends</string>
+    <string name="instagram">Instagram</string>
+    <string name="logIn_invalidError">Invalid email or password</string>
+    <string name="log_out">Log Out</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="menu">Menu</string>
+    <string name="no_friend_requests_found">No friend requests found:)</string>
+    <string name="no_friends__found">No Friends Found:)</string>
+    <string name="notifications">Notifications</string>
+    <string name="pending">Pending</string>
+    <string name="pending_approval">Pending Approval</string>
+    <string name="reels">Reels</string>
+    <string name="requests">Requests</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search foobar...</string>
+    <string name="signIn_btnRegister">Register</string>
+    <string name="signIn_btnSelectImage">Select Image</string>
+    <string name="signIn_etEmail">Email</string>
+    <string name="signIn_etFirstName">First Name</string>
+    <string name="signIn_etLastName">Last Name</string>
+    <string name="signIn_etPassword">Password</string>
+    <string name="signIn_etPasswordVerification">Confirm Password</string>
+    <string name="signIn_menuCamera">Camera</string>
+    <string name="signIn_menuGallery">Gallery</string>
+    <string name="signIn_passwordExplain">password must contain at least 8 characters,
+        including a letter, number and a special character</string>
+    <string name="signIn_tvBirthday">Birthday</string>
+    <string name="signIn_tvFemale">Female</string>
+    <string name="signIn_tvGender">Gender</string>
+    <string name="signIn_tvMale">Male</string>
+    <string name="signIn_tvOther">Other</string>
+    <string name="signIn_tvPicture">picture</string>
+    <string name="status">What is on your mind?</string>
+    <string name="tiktok">Tiktok</string>
+    <string name="update">Update</string>
+    <string name="whatsapp">Whatsapp</string>
+    <style name="Base.Theme.Project2Android" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="CardBackground"><item name="android:background">@color/white</item></style>
+    <style name="PasswordEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:backgroundTint">#d3d3d3</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColorHint">#d3d3d3</item>
+    </style>
+    <style name="ScreenBackground"><item name="android:background">@color/white</item></style>
+    <style name="TextColor"><item name="android:textColor">@color/black</item></style>
+    <style name="TextColorUserName"><item name="android:textColor">@color/colorPrimary</item></style>
+    <style name="Theme.Project2Android" parent="Base.Theme.Project2Android"/>
+    <style name="buttons"><item name="android:backgroundTint">@color/white</item> <item name="android:textColor">@color/black</item></style>
+    <style name="foobar"><item name="android:src">@drawable/foobar4</item></style>
+    <style name="icons"><item name="android:backgroundTint">@color/white</item> <item name="android:tint">@color/dark_grey</item></style>
+    <style name="iconsPost"><item name="android:backgroundTint">@color/white</item> <item name="android:tint">@color/black</item></style>
+    <style name="iconsToolBar"><item name="android:backgroundTint">@color/light_grey</item> <item name="android:tint">@color/dark_grey</item></style>
+    <style name="toolBar"><item name="android:background">@color/light_grey</item></style>
+</resources>

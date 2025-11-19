@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_feed.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/comment_dialog.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/comment_item.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/comment_list.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/edit_comment.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/edit_post.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/friend_item.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/friend_requests.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/friends_list.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_feed2.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/log_in.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/post_layout.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/profile.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/request_item.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/search_dialog.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/share_layout.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/sign_up.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/update_user.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/log_out_menu.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/post_menu.xml">
+        <config>
+          <theme>@style/Theme.Project2Android</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb285148-4307-48ef-bdce-ced3a9e9a768" name="Changes" comment="profile posts fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\shaha\.android\avd\Pixel_5_API_34_1.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="shaharNew" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d40bdc9e-757e-4419-a1e7-3eaa119001e7" />
+        <option name="url" value="https://github.com/Shahar2612/ProjectPart2-Android" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2bfgk8wwOxUUP8mEaerLVPH8qd8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;PROJECT_TRUSTED_KEY&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;android-custom-viewC:/Users/shaha/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/shaha/AndroidStudioProjects/Project2-Android/app/src/main/res/values&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shaha/AndroidStudioProjects/Project2-Android/app/src/main/res/drawable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.android.tools.idea.sqlite.queryhistory&quot;: [
+      &quot;SELECT * FROM user&quot;,
+      &quot;SELECT * FROM user WHERE id = '1'&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.project2_android" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shaha\AndroidStudioProjects\Project2-Android\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shaha\AndroidStudioProjects\Project2-Android\app\src\main\res\raw" />
+      <recent name="C:\Users\shaha\AndroidStudioProjects\Project2-Android\app\src\main\res\menu" />
+      <recent name="C:\Users\shaha\AndroidStudioProjects\Project2-Android\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Project2-Android.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb285148-4307-48ef-bdce-ced3a9e9a768" name="Changes" comment="" />
+      <created>1706611688214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706611688214</updated>
+    </task>
+    <task id="LOCAL‎-00011" summary="updated feed">
+      <option name="closed" value="true" />
+      <created>1707679361871</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL‎-00011" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707679361871</updated>
+    </task>
+    <task id="LOCAL‎-00012" summary="feed improvements">
+      <option name="closed" value="true" />
+      <created>1707755412138</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL‎-00012" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707755412138</updated>
+    </task>
+    <task id="LOCAL‎-00013" summary="feed improvements">
+      <option name="closed" value="true" />
+      <created>1707765893153</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL‎-00013" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707765893153</updated>
+    </task>
+    <task id="LOCAL‎-00014" summary="feed improvements">
+      <option name="closed" value="true" />
+      <created>1707822189502</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL‎-00014" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707822189502</updated>
+    </task>
+    <task id="LOCAL‎-00015" summary="feed improvements, toolbar doesnt work">
+      <option name="closed" value="true" />
+      <created>1707861186578</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL‎-00015" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707861186578</updated>
+    </task>
+    <task id="LOCAL‎-00016" summary="feed improvements, resolved conflicts">
+      <option name="closed" value="true" />
+      <created>1707863281166</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL‎-00016" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707863281166</updated>
+    </task>
+    <task id="LOCAL‎-00017" summary="correct icons and logo">
+      <option name="closed" value="true" />
+      <created>1707866362491</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL‎-00017" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707866362491</updated>
+    </task>
+    <task id="LOCAL‎-00018" summary="sun icon">
+      <option name="closed" value="true" />
+      <created>1707896805444</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL‎-00018" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707896805444</updated>
+    </task>
+    <task id="LOCAL‎-00019" summary="fixed search bug">
+      <option name="closed" value="true" />
+      <created>1707898167457</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL‎-00019" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707898167457</updated>
+    </task>
+    <task id="LOCAL‎-00020" summary="fixed deletion post and post layout, new pic still kaha kaha">
+      <option name="closed" value="true" />
+      <created>1707909381602</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL‎-00020" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707909381602</updated>
+    </task>
+    <task id="LOCAL‎-00021" summary="xml for comment pic">
+      <option name="closed" value="true" />
+      <created>1707912349702</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL‎-00021" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707912349702</updated>
+    </task>
+    <task id="LOCAL‎-00022" summary="comments with pics work!">
+      <option name="closed" value="true" />
+      <created>1707919929201</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL‎-00022" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707919929201</updated>
+    </task>
+    <task id="LOCAL‎-00023" summary="comments with pics and edit and delete! :)">
+      <option name="closed" value="true" />
+      <created>1707920684470</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL‎-00023" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707920684470</updated>
+    </task>
+    <task id="LOCAL‎-00024" summary="menu for post">
+      <option name="closed" value="true" />
+      <created>1707939581289</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL‎-00024" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1707939581289</updated>
+    </task>
+    <task id="LOCAL‎-00025" summary="readme + decrease comment after deletion">
+      <option name="closed" value="true" />
+      <created>1708008257129</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL‎-00025" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1708008257129</updated>
+    </task>
+    <task id="LOCAL‎-00026" summary="db json updated. dark screen works. finish!">
+      <option name="closed" value="true" />
+      <created>1708278348660</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL‎-00026" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1708278348660</updated>
+    </task>
+    <task id="LOCAL‎-00027" summary="beginning of work on server">
+      <option name="closed" value="true" />
+      <created>1709027498647</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL‎-00027" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709027498647</updated>
+    </task>
+    <task id="LOCAL‎-00028" summary="friend request and shit">
+      <option name="closed" value="true" />
+      <created>1709062637573</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL‎-00028" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709062637573</updated>
+    </task>
+    <task id="LOCAL‎-00029" summary="udpate user">
+      <option name="closed" value="true" />
+      <created>1709127852209</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL‎-00029" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709127852209</updated>
+    </task>
+    <task id="LOCAL‎-00030" summary="udpate user">
+      <option name="closed" value="true" />
+      <created>1709127868681</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL‎-00030" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709127868681</updated>
+    </task>
+    <task id="LOCAL‎-00031" summary="commit">
+      <option name="closed" value="true" />
+      <created>1709154325526</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL‎-00031" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709154325526</updated>
+    </task>
+    <task id="LOCAL‎-00032" summary="commit">
+      <option name="closed" value="true" />
+      <created>1709194290082</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL‎-00032" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709194290082</updated>
+    </task>
+    <task id="LOCAL‎-00033" summary="front fixes">
+      <option name="closed" value="true" />
+      <created>1709210976663</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL‎-00033" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709210976664</updated>
+    </task>
+    <task id="LOCAL‎-00034" summary="front fixes">
+      <option name="closed" value="true" />
+      <created>1709218017822</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL‎-00034" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709218017822</updated>
+    </task>
+    <task id="LOCAL‎-00035" summary="appdb postdao converters and shit">
+      <option name="closed" value="true" />
+      <created>1709225872712</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL‎-00035" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709225872712</updated>
+    </task>
+    <task id="LOCAL‎-00036" summary="date fix">
+      <option name="closed" value="true" />
+      <created>1709228769872</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL‎-00036" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709228769872</updated>
+    </task>
+    <task id="LOCAL‎-00037" summary="delete user works">
+      <option name="closed" value="true" />
+      <created>1709244244051</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL‎-00037" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709244244051</updated>
+    </task>
+    <task id="LOCAL‎-00038" summary="dao at api and more improvements">
+      <option name="closed" value="true" />
+      <created>1709415403433</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL‎-00038" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709415403433</updated>
+    </task>
+    <task id="LOCAL‎-00039" summary="friend requests UI">
+      <option name="closed" value="true" />
+      <created>1709474082069</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL‎-00039" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709474082069</updated>
+    </task>
+    <task id="LOCAL‎-00040" summary="fix profile bug">
+      <option name="closed" value="true" />
+      <created>1709478871408</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL‎-00040" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709478871408</updated>
+    </task>
+    <task id="LOCAL‎-00041" summary="fix sign up path">
+      <option name="closed" value="true" />
+      <created>1709542772784</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL‎-00041" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709542772784</updated>
+    </task>
+    <task id="LOCAL‎-00042" summary="fix sign up path">
+      <option name="closed" value="true" />
+      <created>1709552338401</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL‎-00042" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709552338401</updated>
+    </task>
+    <task id="LOCAL‎-00043" summary="friend request server">
+      <option name="closed" value="true" />
+      <created>1709565609769</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL‎-00043" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709565609769</updated>
+    </task>
+    <task id="LOCAL‎-00044" summary="friend request server">
+      <option name="closed" value="true" />
+      <created>1709642534269</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL‎-00044" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709642534269</updated>
+    </task>
+    <task id="LOCAL‎-00045" summary="get friends">
+      <option name="closed" value="true" />
+      <created>1709663540011</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL‎-00045" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709663540011</updated>
+    </task>
+    <task id="LOCAL‎-00046" summary="fix bug friends request + get friends">
+      <option name="closed" value="true" />
+      <created>1709726208760</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL‎-00046" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709726208760</updated>
+    </task>
+    <task id="LOCAL‎-00047" summary="delete user + get friend's post">
+      <option name="closed" value="true" />
+      <created>1709751164547</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL‎-00047" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709751164547</updated>
+    </task>
+    <task id="LOCAL‎-00048" summary="icon">
+      <option name="closed" value="true" />
+      <created>1709762195382</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL‎-00048" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709762195382</updated>
+    </task>
+    <task id="LOCAL‎-00049" summary="friends list work">
+      <option name="closed" value="true" />
+      <created>1709805833316</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL‎-00049" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709805833316</updated>
+    </task>
+    <task id="LOCAL‎-00050" summary="click name/pic -&gt; profile works">
+      <option name="closed" value="true" />
+      <created>1709807325459</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL‎-00050" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709807325459</updated>
+    </task>
+    <task id="LOCAL‎-00051" summary="buttons work">
+      <option name="closed" value="true" />
+      <created>1709827330544</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL‎-00051" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709827330545</updated>
+    </task>
+    <task id="LOCAL‎-00052" summary="need meitar to look at what in comments in ProfileActivity">
+      <option name="closed" value="true" />
+      <created>1709828506960</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL‎-00052" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709828506960</updated>
+    </task>
+    <task id="LOCAL‎-00053" summary="posts at profile work">
+      <option name="closed" value="true" />
+      <created>1709844775955</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL‎-00053" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709844775956</updated>
+    </task>
+    <task id="LOCAL‎-00054" summary="ui profile fixes">
+      <option name="closed" value="true" />
+      <created>1709851442839</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL‎-00054" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709851442840</updated>
+    </task>
+    <task id="LOCAL‎-00055" summary="ui profile fixes + 25 latest posts">
+      <option name="closed" value="true" />
+      <created>1709891403426</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL‎-00055" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1709891403426</updated>
+    </task>
+    <task id="LOCAL‎-00056" summary="accept friend request fix + strings">
+      <option name="closed" value="true" />
+      <created>1710082878776</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL‎-00056" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1710082878777</updated>
+    </task>
+    <task id="LOCAL‎-00057" summary="get posts from friends">
+      <option name="closed" value="true" />
+      <created>1710102534849</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL‎-00057" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1710102534850</updated>
+    </task>
+    <task id="LOCAL‎-00058" summary="sort friends post in PostsRepository">
+      <option name="closed" value="true" />
+      <created>1710158843983</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL‎-00058" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1710158843983</updated>
+    </task>
+    <task id="LOCAL‎-00059" summary="profile posts fix">
+      <option name="closed" value="true" />
+      <created>1710342336745</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL‎-00059" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1710342336745</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="front fixes" />
+    <MESSAGE value="appdb postdao converters and shit" />
+    <MESSAGE value="date fix" />
+    <MESSAGE value="delete user works" />
+    <MESSAGE value="dao at api and more improvements" />
+    <MESSAGE value="friend requests UI" />
+    <MESSAGE value="fix profile bug" />
+    <MESSAGE value="fix sign up path" />
+    <MESSAGE value="friend request server" />
+    <MESSAGE value="get friends" />
+    <MESSAGE value="fix bug friends request + get friends" />
+    <MESSAGE value="delete user + get friend's post" />
+    <MESSAGE value="icon" />
+    <MESSAGE value="friends list work" />
+    <MESSAGE value="click name/pic -&gt; profile works" />
+    <MESSAGE value="buttons work" />
+    <MESSAGE value="need meitar to look at what in comments in ProfileActivity" />
+    <MESSAGE value="posts at profile work" />
+    <MESSAGE value="ui profile fixes" />
+    <MESSAGE value="ui profile fixes + 25 latest posts" />
+    <MESSAGE value="accept friend request fix + strings" />
+    <MESSAGE value="get posts from friends" />
+    <MESSAGE value="sort friends post in PostsRepository" />
+    <MESSAGE value="profile posts fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="profile posts fix" />
+  </component>
+</project>

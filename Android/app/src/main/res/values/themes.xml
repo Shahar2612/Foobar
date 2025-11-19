@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project2Android" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="ScreenBackground"><item name="android:background">@color/white</item></style>
+    <style name="CardBackground"><item name="android:background">@color/white</item></style>
+    <style name="TextColor"><item name="android:textColor">@color/black</item></style>
+    <style name="TextColorUserName"><item name="android:textColor">@color/colorPrimary</item></style>
+    <style name="icons"><item name="android:backgroundTint">@color/white</item> <item name="android:tint">@color/dark_grey</item></style>
+    <style name="iconsToolBar"><item name="android:backgroundTint">@color/light_grey</item> <item name="android:tint">@color/dark_grey</item></style>
+    <style name="toolBar"><item name="android:background">@color/light_grey</item></style>
+    <style name="foobar"><item name="android:src">@drawable/foobar4</item></style>
+    <style name="iconsPost"><item name="android:backgroundTint">@color/white</item> <item name="android:tint">@color/black</item></style>
+    <style name="buttons"><item name="android:backgroundTint">@color/white</item> <item name="android:textColor">@color/black</item></style>
+
+
+
+
+    <style name="Theme.Project2Android" parent="Base.Theme.Project2Android" />
+</resources>

@@ -1,0 +1,262 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userPic": "drawable/user1",
+      "name": "Adi Glater",
+      "text": "happy birthday!!",
+      "photo": "drawable/birthday",
+      "date": "one minute ago",
+      "like": 10,
+      "comments": 2,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Meitar Teper",
+          "text": "thank you my love!!",
+          "photo": "drawable/user1"
+        },
+        {
+          "id": 2,
+          "name": "Shahar chen",
+          "text": "OMG i forgot !! happy birthday",
+          "photo": "drawable/user4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userPic": "drawable/user5",
+      "name": "Shira Cahen",
+      "text": "i love this song, you should listen to it know",
+      "photo": "drawable/song",
+      "date": "one hour ago",
+      "like": 45,
+      "comments": 3,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Roei hashai",
+          "text": "i listen to it, it is a great song!!",
+          "photo": "drawable/user6"
+        },
+        {
+          "id": 2,
+          "name": "Nitai Gonen",
+          "text": "I love pop music!!",
+          "photo": "drawable/user9"
+        },
+        {
+          "id": 3,
+          "name": "Gonen Marchev",
+          "text": "didnt like it sorry",
+          "photo": "drawable/user10"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userPic": "drawable/user2",
+      "name": "David Shwimmer",
+      "text": "WE WERE ON A BREAK!!!",
+      "date": "five hour ago",
+      "photo": "drawable/brake",
+      "like": 45,
+      "comments": 1,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Rachel Green",
+          "text": "no we were NOT!!!!!!!!",
+          "photo": "drawable/rachel"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userPic": "drawable/user3",
+      "name": "Bob Cohen",
+      "text": "you should go travel today",
+      "photo": "drawable/story4",
+      "date": "two days ago",
+      "like": 3,
+      "comments": 4,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Roei hashai",
+          "text": "OK",
+          "photo": "drawable/user6"
+        },
+        {
+          "id": 2,
+          "name": "Nitai Gonen",
+          "text": "But it's raining ",
+          "photo": "drawable/user9"
+        },
+        {
+          "id": 3,
+          "name": "Gonen Marchev",
+          "text": "We also traveled it is a really beautiful day",
+          "photo": "drawable/user10"
+        },
+        {
+          "id": 4,
+          "name": "Gonen Marchev",
+          "text": "can i come with you ?",
+          "photo": "drawable/user10"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userPic": "drawable/user4",
+      "name": "Libi Levi",
+      "text": "“If you don’t like to read, you haven’t found the right book.” – J.K. Rowlingr",
+      "photo": "drawable/read",
+      "date": "one day ago",
+      "like": 90,
+      "comments": 2,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Roei hashai",
+          "text": "Great quote",
+          "photo": "drawable/user6"
+        },
+        {
+          "id": 2,
+          "name": "Nitai Gonen",
+          "text": "What is the right book?",
+          "photo": "drawable/user9"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "userPic": "drawable/user6",
+      "name": "Elad Hadad",
+      "text": "Had so nuch fun last nigth in the movie!",
+      "photo": "drawable/popcorn",
+      "date": "one minute ago",
+      "like": 59,
+      "comments": 1,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Shaked hashai",
+          "text": "You didn't enjoy the movie, you enjoyed the popcorn",
+          "photo": "drawable/user8"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "userPic": "drawable/user8",
+      "name": "Danit Greenberg",
+      "text": "you should try this!! coupon code - Danit777",
+      "photo": "drawable/krem",
+      "date": "one week ago",
+      "like": 4,
+      "comments": 1,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Roei hashai",
+          "text": "i try this it is amasing!!",
+          "photo": "drawable/user6"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "userPic": "drawable/user7",
+      "name": "Amit Gonen",
+      "text": "My new recipe book is now in the stors",
+      "photo": "drawable/recpie",
+      "date": "two minute ago",
+      "like": 34,
+      "comments": 4,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Roei hashai",
+          "text": "How to bake the cake on page five?!",
+          "photo": "drawable/user6"
+        },
+        {
+          "id": 2,
+          "name": "Nitai Gonen",
+          "text": "Also publish a book for vegans",
+          "photo": "drawable/user9"
+        },
+        {
+          "id": 3,
+          "name": "Gonen Marchev",
+          "text": "יhmmmm lookes good !",
+          "photo": "drawable/user10"
+        },
+        {
+          "id": 4,
+          "name": "Gonen Marchev",
+          "text": "Wow, I'm going to buyy",
+          "photo": "drawable/user10"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "userPic": "drawable/user9",
+      "name": "Tomer Maman",
+      "text": "wow!!",
+      "photo": "drawable/story3",
+      "date": "one hour ago",
+      "like": 23,
+      "comments": 1,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Roei hashai",
+          "text": "amasing!",
+          "photo": "drawable/user6"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "userPic": "drawable/user10",
+      "name": "Tomer Polac",
+      "text": "had so much fun on the VACATION",
+      "photo": "drawable/tailand",
+      "date": "one minute ago",
+      "like": 110,
+      "comments": 4,
+      "commentsInfo": [
+        {
+          "id": 1,
+          "name": "Roei hashai",
+          "text": "Wow I'm jealous",
+          "photo": "drawable/user6"
+        },
+        {
+          "id": 2,
+          "name": "Nitai Gonen",
+          "text": "One day we will finish our degree and we will also be on vacation",
+          "photo": "drawable/user9"
+        },
+        {
+          "id": 3,
+          "name": "Gonen Marchev",
+          "text": "didnt like it sorry",
+          "photo": "drawable/user10"
+        },
+        {
+          "id": 4,
+          "name": "Gonen Marchev",
+          "text": "take me too",
+          "photo": "drawable/user10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+[
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_sun.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_song.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\song.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_like.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user3.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-mdpi_ic_error.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-mdpi\\ic_error.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_tiktok.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_tiktok.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_read.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\read.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_track.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\track.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_photo.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_bluetooth.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_bluetooth.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_messenger.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_messenger.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxxhdpi_ic_error.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxxhdpi\\ic_error.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_edit.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_error.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_story4.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\story4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_bluetooth.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_sun.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_friend_requests.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\friend_requests.xml"
+    },
+    {
+        "merged": "com.example.project2_android.app-merged_res-36:/menu_profile_menu.xml.flat",
+        "source": "com.example.project2_android.app-main-38:/menu/profile_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_tiktok.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_tiktok.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxhdpi_ic_error_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxhdpi\\ic_error_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_add.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_krem.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\krem.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_like.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_request_item.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user6.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_whtsapp.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_whtsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_friends.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_friends.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\menu_sign_in_image.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\menu\\sign_in_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_comment2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_comment2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-mdpi_ic_error_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-mdpi\\ic_error_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_photo.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_tiktok.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_tiktok.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_photo.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_comment_item.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_marketplace.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_marketplace.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_popcorn.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\popcorn.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_comment2.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_comment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_reels.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_reels.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_share_layout.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\share_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_contact2.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\contact2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_foobar.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\foobar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user5.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_share2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_share2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xhdpi_ic_error_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xhdpi\\ic_error_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_menu2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_menu2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_like.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_log_in.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_story3.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\story3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_comment2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_comment2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_contact4.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\contact4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_friends.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_friends.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_recpie.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\recpie.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxxhdpi_ic_error_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxxhdpi\\ic_error_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_post.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_post.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_rachel.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\rachel.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_tiktok.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_tiktok.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_menu2.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_menu2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_menu2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-hdpi_ic_error.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-hdpi\\ic_error.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_thumbfalse.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\thumbfalse.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user1.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_close.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_reels.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_reels.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_marketplace.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_marketplace.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-hdpi_ic_error_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-hdpi\\ic_error_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_whtsapp.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_whtsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxhdpi_ic_error.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxhdpi\\ic_error.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_foobar_dark.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\foobar_dark.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_search.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_sun.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_moon.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_moon.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_friends_list.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\friends_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\menu_post_menu.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\menu\\post_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_foobar3.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\foobar3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_marketplace.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_marketplace.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_photo.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_contact6.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\contact6.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_story1.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\story1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_comment2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_comment2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_foobar4.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\foobar4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_share2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_share2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_moon.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_moon.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_like.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_error.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_bluetooth.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_update_user.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\update_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_item_feed2.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\item_feed2.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_post.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_post.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user9.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\raw_db.json.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\raw\\db.json"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_story2.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\story2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_friend_item.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\friend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_activity_feed.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\activity_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_share2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_share2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_birthday.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\birthday.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user10.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_whtsapp.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_whtsapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_close.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_error.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_foobar2.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\foobar2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_whtsapp.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_whtsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_moon.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_moon.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_thumbtrue.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\thumbtrue.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_search_dialog.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\search_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_bluetooth.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_like.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_error.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_share2.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_share2.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_comment_dialog.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\comment_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_photo.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_sun.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_whtsapp.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_whtsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_post.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_post.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_friends.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_messenger.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_messenger.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_error.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_reels.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_reels.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_contact5.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\contact5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_feed.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_profile.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_menu.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_notifications.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_comment_list.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\comment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_marketplace.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_marketplace.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_tiktok.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_tiktok.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_messenger.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_messenger.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_thumb.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_edit_post.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\edit_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_edit_comment.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\edit_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_pic.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_messenger.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_messenger.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_comment2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_comment2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_reels.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_reels.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_menu2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_menu2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user7.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_post_layout.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\post_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_menu2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_menu2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_brake.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\brake.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\menu_log_out_menu.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\menu\\log_out_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_friends.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_friends.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_contact1.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\contact1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_reels.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_reels.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xhdpi_ic_error.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xhdpi\\ic_error.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_sun.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_sun.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_moon.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_moon.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_tailand.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\tailand.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user8.jpg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_share2.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_share2.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_friends.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_friends.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user4.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-hdpi_ic_moon.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-hdpi\\ic_moon.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-anydpi_ic_post.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-anydpi\\ic_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_contact3.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\contact3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-mdpi_ic_messenger.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-mdpi\\ic_messenger.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xhdpi_ic_post.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xhdpi\\ic_post.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_circular_background.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\circular_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\layout_sign_up.xml.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\layout\\sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable-xxhdpi_ic_marketplace.png.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable-xxhdpi\\ic_marketplace.png"
+    },
+    {
+        "merged": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-merged_res-36:\\drawable_user2.jpeg.flat",
+        "source": "C:\\Users\\shaha\\.gradle\\daemon\\8.2\\com.example.project2_android.app-main-38:\\drawable\\user2.jpeg"
+    }
+]

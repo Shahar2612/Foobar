@@ -1,0 +1,63 @@
+Index: app/src/main/java/com/example/project2_android/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.example.project2_android;\r\n\r\nimport androidx.appcompat.app.AppCompatActivity;\r\n\r\nimport android.os.Bundle;\r\n\r\npublic class MainActivity extends AppCompatActivity {\r\n\r\n    @Override\r\n    protected void onCreate(Bundle savedInstanceState) {\r\n        super.onCreate(savedInstanceState);\r\n        setContentView(R.layout.activity_main);\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/project2_android/MainActivity.java b/app/src/main/java/com/example/project2_android/MainActivity.java
+--- a/app/src/main/java/com/example/project2_android/MainActivity.java	(revision b87b1a7e70cda28990bc0551726a9b2d4d52d301)
++++ b/app/src/main/java/com/example/project2_android/MainActivity.java	(date 1706777165331)
+@@ -9,6 +9,7 @@
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
+-        setContentView(R.layout.activity_main);
++        setContentView(R.layout.log_in);
+     }
++
+ }
+\ No newline at end of file
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><resources>\r\n    <string name=\"app_name\">Project2-Android</string>\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/strings.xml b/app/src/main/res/values/strings.xml
+--- a/app/src/main/res/values/strings.xml	(revision b87b1a7e70cda28990bc0551726a9b2d4d52d301)
++++ b/app/src/main/res/values/strings.xml	(date 1706777165349)
+@@ -1,3 +1,8 @@
+ <resources>
+     <string name="app_name">Project2-Android</string>
++    <string name="Email">Email</string>
++    <string name="Password">Password</string>
++    <string name="LogIn">Log In</string>
++    <string name="SignUpforFoobar">Sign Up for Foobar</string>
++    <string name="ForgotPassword">Forgot Password?</string>
+ </resources>
+\ No newline at end of file
+Index: app/src/main/res/values/colors.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<resources>\r\n    <color name=\"black\">#FF000000</color>\r\n    <color name=\"white\">#FFFFFFFF</color>\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/colors.xml b/app/src/main/res/values/colors.xml
+--- a/app/src/main/res/values/colors.xml	(revision b87b1a7e70cda28990bc0551726a9b2d4d52d301)
++++ b/app/src/main/res/values/colors.xml	(date 1706777165351)
+@@ -2,4 +2,11 @@
+ <resources>
+     <color name="black">#FF000000</color>
+     <color name="white">#FFFFFFFF</color>
++    <!-- colors we are using in this project -->
++    <color name="purple_200">#3b5998</color>
++    <color name="purple_500">#FF6200EE</color>
++    <color name="purple_700">#FF3700B3</color>
++    <color name="teal_200">#FF03DAC5</color>
++    <color name="teal_700">#FF018786</color>
++
+ </resources>
+\ No newline at end of file
